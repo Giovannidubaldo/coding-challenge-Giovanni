@@ -1,0 +1,51 @@
+/*selettore {
+    transition-property: valore;
+    transition-property: valore;
+}*/
+
+.container{
+    width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+body{
+    background-image: url(Immagini/background.jpg);
+    background-size: cover;
+    color: white;
+}
+.logo{
+    width: 180px;
+}
+
+.sottologo{
+    color: rgb(15, 214, 15);
+}
+.button{
+    background-color: rgb(1, 215, 1);
+    border-radius: 50%;
+    padding: 5px;
+}
+
+.righe{
+    text-align: left;
+    height: 180px;
+}
+
+.hr1{
+  background-color: orange;
+  height: 10px;
+  width: 200px;
+}
+
+.hr2{
+    background-color: rgb(3, 165, 3);
+    height: 10px;
+    width: 300px;
+}
+
+.hr3{
+    background-color: red;
+    height: 10px;
+    width: 100px;
+}
